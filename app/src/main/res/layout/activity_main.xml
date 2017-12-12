@@ -25,12 +25,14 @@
             android:background="?attr/colorPrimary"
             app:layout_constraintEnd_toEndOf="parent"
             app:popupTheme="@style/AppTheme.PopupOverlay" />
+
     </android.support.design.widget.AppBarLayout>
 
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_weight="1"
         android:onClick="StorageIntent"
         android:text="@string/Open"
         app:layout_constraintBottom_toBottomOf="parent"

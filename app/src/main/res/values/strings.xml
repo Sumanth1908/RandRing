@@ -2,7 +2,7 @@
     <string name="app_name">RandRing</string>
     <string name="action_settings">Settings</string>
     <string name="action_setting2">Exit</string>
-    <string name="Open">Choose a File</string>
+    <string name="Open">Click to Select music</string>
     <string name="song2">Song2</string>
     <string name="song3">Song3</string>
     <string name="title_activity_search_results">SearchResultsActivity</string>

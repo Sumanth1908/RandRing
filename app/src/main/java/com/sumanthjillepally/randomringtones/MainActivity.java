@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
         else if (id == R.id.action_setting2) {
-            finish();
+            System.exit(0);
         }
 
         return super.onOptionsItemSelected(item);
